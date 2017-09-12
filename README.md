@@ -41,5 +41,5 @@ end
 
 ## Credits
 - Built with [CapsAdmin's Example](https://github.com/CapsAdmin/ffibuild/tree/master/examples/steamworks)
-- [SeStudio's website](https://sestudio.org/)
+- [SeStudio's website](http://sestudio.org/)
 - [LOVE2D Framework](https://love2d.org/)
