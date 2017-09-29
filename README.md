@@ -7,7 +7,7 @@ require("steamworks")
 ```
 * [Download LuaFIT (FFI)](http://luajit.org/download.html)
 
-## Include these .DLL files in main folder with .exe file (Or .batch converted to .exe)
+## Include these .DLL files in main folder with .exe file (Or .batch converted to .exe) (Google drive direct download)
 * [steam_api.dll](https://drive.google.com/uc?export=download&id=0B-V5MASkccPiOUVUR0hobW91MTg)
 * [steam_api64.dll](https://drive.google.com/uc?export=download&id=0B-V5MASkccPiSkxleko2b3hwRmM)
 
